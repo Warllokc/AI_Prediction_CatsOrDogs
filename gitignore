@@ -5,5 +5,4 @@ build/**/*.log
 .idea/**/*.log
 .vscode/**/*.log
 gitig.py
-model/.DS_Store
-
+**/.DS_Store
