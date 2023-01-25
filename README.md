@@ -9,7 +9,7 @@
       git clone <repository URL>
    ```
 
-2. Copy the dataset from kaggle into the repo and add them to <training_set> folder.
+2. Create <training_set> folder and Copy the dataset from kaggle into the repo and add them to <training_set> folder.
 ```
 
    https://www.kaggle.com/datasets/tongpython/cat-and-dog
