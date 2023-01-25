@@ -22,16 +22,17 @@
    ```
       python3 trining.py
    ```
-5. Use images from <test_images> forlder or add your own images (be sure to update the <prediction.py> file if you use your pictures), please use <png> files
+5. Use images from <test_images> folder or add your own images (be sure to update the <prediction.py> file if you use your pictures), please use <png> files
   If use your onw pictures, update this line in the <prediction.py> file:
   ```
          img_path = "path/<your image>.jpg"
   ```
+6.Run the <prediction.py > file
    ```
           python3 prediction.py  
 
    ```
-6. Should see following result
+7. Should see following result
    ```
 1/1 [==============================] - 0s 91ms/step
 
