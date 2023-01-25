@@ -21,7 +21,7 @@
       pip install -r requirements.txt
    ```
 
-4. Run the trining.py script adn wait until the training model is trained and saved/updated to model folder
+4. Run the trining.py script and wait until the training model is trained and saved/updated to model folder
    ```
       python3 trining.py
    ```
