@@ -12,7 +12,8 @@
 ```
    https://www.kaggle.com/datasets/tongpython/cat-and-dog
 ```
--- in <training_set> folder should be 2 fodlers: cats and dogs
+-- in <training_set> folder should be 2 folders: cats and dogs
+
 3. Install all required pyhton packages
    ```
       pip install -r requirements.txt
