@@ -1,4 +1,4 @@
-# AIPrediction_CatsOrDogs
+# AI_Prediction_CatsOrDogs
 ## Steps to follow
 
 
